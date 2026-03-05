@@ -1,0 +1,16 @@
+incident-management-system
+│
+├── README.md
+├── project-architecture
+│   └── workflow-diagram.png
+│
+├── screenshots
+│   ├── incident-form.png
+│   ├── ticket-database.png
+│   └── dashboard.png
+│
+├── sample-data
+│   └── incident_sample_data.csv
+│
+└── documentation
+    └── system-design.md
